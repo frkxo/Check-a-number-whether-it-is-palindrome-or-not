@@ -1,2 +1,2 @@
 # Check-a-number-whether-is-palindrome-or-not
-c++
+Written in c++ language.
